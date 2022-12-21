@@ -1,0 +1,5 @@
+import java.io
+void main()
+{
+int a=0;
+System.out.println(
